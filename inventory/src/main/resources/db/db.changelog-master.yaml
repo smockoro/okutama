@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - changeSet:
+      author: hogehoge
+      id: changelog-1.0
